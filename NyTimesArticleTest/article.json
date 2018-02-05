@@ -1,0 +1,51 @@
+{
+    "url":"https://www.nytimes.com/2018/01/28/arts/music/grammy-winners.html",
+    "adx_keywords":"Music;Grammy Awards",
+    "column":null,
+    "section":"Arts",
+    "byline":"Compiled by ANDREW R. CHOW",
+    "type":"Article",
+    "title":"Grammy 2018 Winners: Full List",
+    "abstract":"A list of the winners from the 60th annual Grammy Awards.",
+    "published_date":"2018-01-28",
+    "source":"The New York Times",
+    "id":100000005688222,
+    "asset_id":100000005688222,
+    "views":1,
+    "des_facet":[
+                 "MUSIC",
+                 "GRAMMY AWARDS"
+                 ],
+    "org_facet":"",
+    "per_facet":"",
+    "geo_facet":"",
+    "media":[
+             {
+             "type":"image",
+             "subtype":"photo",
+             "caption":"Rihanna and Kendrick Lamar accept the 2018 Grammy for Best Rap/Sung Performance for “Loyalty.”",
+             "copyright":"Kevin Winter/Getty Images for Naras",
+             "approved_for_syndication":1,
+             "media-metadata":[
+                               {
+                               "url":"https://static01.nyt.com/images/2018/01/29/arts/29grammys-winners1/29grammys-winners1-thumbStandard.jpg",
+                               "format":"Standard Thumbnail",
+                               "height":75,
+                               "width":75
+                               },
+                               {
+                               "url":"https://static01.nyt.com/images/2018/01/29/arts/29grammys-winners1/29grammys-winners1-mediumThreeByTwo210.jpg",
+                               "format":"mediumThreeByTwo210",
+                               "height":140,
+                               "width":210
+                               },
+                               {
+                               "url":"https://static01.nyt.com/images/2018/01/29/arts/29grammys-winners1/29grammys-winners1-mediumThreeByTwo440.jpg",
+                               "format":"mediumThreeByTwo440",
+                               "height":293,
+                               "width":440
+                               }
+                               ]
+             }
+             ]
+}
