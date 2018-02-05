@@ -3,7 +3,7 @@ New York Times Demo App
 ==============
 
 This simple app to displaying the NY Times Most Popular Articles. Sample uses the most popular API of new york developer console.
-User needs to select first sesction in which he is interested and then select duration , how far he/she want to see the article.
+User needs to select first select the article in which he is interested and then select duration in days.
 Taping on any article will display the details of article.
 
 ## Packaging
